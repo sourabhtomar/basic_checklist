@@ -3,8 +3,8 @@ If you are a beginner then you should definitely check this out
 
 1-> Find a scope 
 2-> If its API based then first read documentation (it will surely help you out)
-3-> find subdomains (as many subdomains as you can)</n>
-<b>FOR FINDING SUBDOMAINS</b> 
+3-> find subdomains (as many subdomains as you can)
+FOR FINDING SUBDOMAINS 
 a: Assetfinder
 b: Findomain
 c: Amass
